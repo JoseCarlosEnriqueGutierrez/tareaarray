@@ -1,0 +1,13 @@
+C:\Users\carlo\Desktop\projects\tareaarray\bin\Debug\netcoreapp3.1\tareaarray.exe
+C:\Users\carlo\Desktop\projects\tareaarray\bin\Debug\netcoreapp3.1\tareaarray.deps.json
+C:\Users\carlo\Desktop\projects\tareaarray\bin\Debug\netcoreapp3.1\tareaarray.runtimeconfig.json
+C:\Users\carlo\Desktop\projects\tareaarray\bin\Debug\netcoreapp3.1\tareaarray.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\projects\tareaarray\bin\Debug\netcoreapp3.1\tareaarray.dll
+C:\Users\carlo\Desktop\projects\tareaarray\bin\Debug\netcoreapp3.1\tareaarray.pdb
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.AssemblyInfo.cs
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.dll
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.pdb
+C:\Users\carlo\Desktop\projects\tareaarray\obj\Debug\netcoreapp3.1\tareaarray.genruntimeconfig.cache
